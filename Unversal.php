@@ -1,7 +1,7 @@
 <?php
 ob_start();
-define('API_KEY', 'TOKEN');
-$bot = "Bot nomi";
+define('@Djddhjdjdjddlldl_bot', '5306041780:AAGFu4RvIj4p82EpToV1bwpx-mKcztfWqH8');
+$bot = "Testbot1";
 //===========@PhPKodUzb=============//
 echo file_get_contents("https://api.telegram.org/bot" . API_KEY . "/setwebhook?url=" . $_SERVER['SERVER_NAME'] . "" . $_SERVER['SCRIPT_NAME']);
 //===========@PhPKodUzb=============//
